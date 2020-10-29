@@ -1,0 +1,6 @@
+E:\School\Semester 2\Fundamentals of programming 2\Assignment #2\Programming Exercise3\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.csprojAssemblyReference.cache
+E:\School\Semester 2\Fundamentals of programming 2\Assignment #2\Programming Exercise3\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\SalesTransactionDemo.exe.config
+E:\School\Semester 2\Fundamentals of programming 2\Assignment #2\Programming Exercise3\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\SalesTransactionDemo.exe
+E:\School\Semester 2\Fundamentals of programming 2\Assignment #2\Programming Exercise3\SalesTransactionDemo\SalesTransactionDemo\bin\Debug\SalesTransactionDemo.pdb
+E:\School\Semester 2\Fundamentals of programming 2\Assignment #2\Programming Exercise3\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.exe
+E:\School\Semester 2\Fundamentals of programming 2\Assignment #2\Programming Exercise3\SalesTransactionDemo\SalesTransactionDemo\obj\Debug\SalesTransactionDemo.pdb
